@@ -21,9 +21,4 @@ print( nome, idade , peso)
 # o que o usuário digitar aparecerá dentro da variavel 
 # use modo interativo - testar algo 
 # use modo de programa - crie um script
-# 
-# 
-# 
-# 
-# 
-# 
+
